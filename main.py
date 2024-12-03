@@ -8,6 +8,7 @@ def main():
     print('Again')
     print('UFO came and added this line')
     print(0)
+    print("Новый код у ветки")
     my_superfunction()
 
 
